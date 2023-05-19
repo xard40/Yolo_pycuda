@@ -1,0 +1,8 @@
+pycuda
+tensorrt
+torchvision
+torch
+numpy
+opencv-python
+pillow
+
